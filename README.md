@@ -20,10 +20,14 @@ For your list of tasks you can add tasks, complete current tasks, remove tasks, 
 
 
 ## Screenshots
+
+Here's the filter:
 ![AngularLab1 - Google Chrome 4_8_2021 3_27_05 PM](https://user-images.githubusercontent.com/76186882/114085545-8257e900-987f-11eb-9cc6-097fdd4b6a27.png)
 
+Here's with an added task:
 ![AngularLab1 - Google Chrome 4_8_2021 3_27_27 PM](https://user-images.githubusercontent.com/76186882/114085527-7cfa9e80-987f-11eb-9ee1-cade431c121f.png)
 
+Here's with some tasks removed and the added task completed:
 ![AngularLab1 - Google Chrome 4_8_2021 3_25_42 PM](https://user-images.githubusercontent.com/76186882/114085565-897ef700-987f-11eb-9ea6-51c8e23f903b.png)
 
 
