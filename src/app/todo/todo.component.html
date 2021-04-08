@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="mainContainer border">
+        <h1 class="margin">TODO List</h1>
+        <p class="margin">A place to store your todos</p>
+
+        <input [(ngModel)]='searchText' type="text" placeholder="Filter your to-dos"
+            class="margin border grey lightGrey">
+
+        <app-todo-list [todos]='todos' [searchText]='searchText' (remove)="removeTodo($event)"></app-todo-list>
+
+        <input type="text" [(ngModel)]='newTask' placeholder="Add your to-do" class="margin border grey lightGrey">
+
+        <button type="button" (click)='addTodo()' class="margin border pink">Add</button>
+
+    </div>
+</body>
+
+</html>

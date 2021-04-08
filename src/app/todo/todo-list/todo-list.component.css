@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.listContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.strikeThrough { 
+    text-decoration: line-through #ff0000;
+}
+
+.todoItem{
+    margin: 5px;
+    margin-left: 30px;
+    display: list-item;
+}
+
+
+.xButton{
+    border: none;
+    background-color: white;
+    font-weight: bold;
+    position: absolute;
+    right: 10px;
+}
+
+.completeButton{
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.margin{
+    margin: 10px;
+}
+
+.border{
+    border-radius: 5px;
+}
+
+ol{
+    display: flex;
+    flex-direction: column;
+}
+
+li{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+button{
+    height: 30px;
+    position: relative;
+    padding: 5px;
+}
+
+.lightPink{
+    color: #ff69b4;
+    background-color: white;
+    border: 1px solid #ff69b4;
+}

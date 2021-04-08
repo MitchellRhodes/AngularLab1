@@ -1,0 +1,10 @@
+<div class="listContainer">
+    <ol type="1">
+        <li *ngFor='let todo of todos | filter:searchText; let i = index' trackBy:trackByTodo>
+            <button type="button" (click)='completeTodo(todo)' class="completeButton border lightPink"
+                *ngIf="!todo.completed">Complete</button>
+            <p class="todoItem" [ngClass]="{'strikeThrough' : todo.completed}">{{todo.task}}</p>
+            <button type="button" (click)='removeTodo(todo)' class="xButton margin border">X</button>
+        </li>
+    </ol>
+</div>
