@@ -28,7 +28,8 @@ Here's with an added task:
 ![AngularLab1 - Google Chrome 4_8_2021 3_27_27 PM](https://user-images.githubusercontent.com/76186882/114085527-7cfa9e80-987f-11eb-9ee1-cade431c121f.png)
 
 Here's with some tasks removed and the added task completed:
-![AngularLab1 - Google Chrome 4_8_2021 3_25_42 PM](https://user-images.githubusercontent.com/76186882/114085565-897ef700-987f-11eb-9ea6-51c8e23f903b.png)
+![AngularLab1 - Google Chrome 4_8_2021 3_27_56 PM](https://user-images.githubusercontent.com/76186882/114086319-7a4c7900-9880-11eb-863b-5ab2be649dbc.png)
+
 
 
 ## Development server
