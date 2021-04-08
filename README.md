@@ -11,7 +11,7 @@ The project was done as an exercise in coding bootcamp to help learn the basics 
 
 ## Tech/Framework
 
-Html, Css, Angular, Filterpipe
+Html, Css, Typescript, Javascript Angular, Filterpipe
 
 
 ## Features
