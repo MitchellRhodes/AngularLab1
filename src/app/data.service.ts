@@ -12,33 +12,8 @@ export class DataService {
 
   todos: Todo[] = [
     {
-      task: 'Sweep pick 16th notes at 180bpm',
+      task: 'Get started by adding your own tasks',
       completed: false
-    },
-
-    {
-      task: 'Shred 16th notes at 200bpm',
-      completed: false
-    },
-
-    {
-      task: 'Legato triplet 8th notes at 260bpm',
-      completed: true
-    },
-
-    {
-      task: 'String Skipping at 240bpm',
-      completed: true
-    },
-
-    {
-      task: 'Demure by Shrezzers solo to speed',
-      completed: false
-    },
-
-    {
-      task: 'Record favorite riff and put on soundcloud',
-      completed: true
     },
   ];
 
